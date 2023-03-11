@@ -23,4 +23,4 @@ Here are some of the projects I've worked on:
 
 ## Contact
 
-You can reach me at yonk710@gmail.com or via [LinkedIn](https://www.linkedin.com/in/myprofile).
+You can reach me at yonk710@gmail.com or via [LinkedIn]https://www.linkedin.com/in/yonathan-fadel-930765243/
