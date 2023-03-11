@@ -27,5 +27,5 @@ Here are some of the projects I have worked on:
 I am passionate about building and maintaining computer networks, and I am actively seeking opportunities to apply my skills and knowledge in the IT industry. My long-term goal is to become a network engineer and work on large-scale network infrastructure projects.
 
 ## Contact Information
-You can reach me at yonk710@gmail.com or connect with me on LinkedIn at [[linkedin.com/johnsmith](https://www.linkedin.com/johnsmith).](https://www.linkedin.com/in/yonathan-fadel-930765243/) I would love to hear from you!
+You can reach me at yonk710@gmail.com or connect with me on LinkedIn at (https://www.linkedin.com/in/yonathan-fadel-930765243/) I would love to hear from you!
 
