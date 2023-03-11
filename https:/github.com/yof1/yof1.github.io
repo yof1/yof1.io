@@ -1,69 +1,69 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>My Networking Portfolio</title>
-	<style>
-		body {
-			background-color: #f2f2f2;
-			font-family: Arial, sans-serif;
-			margin: 0;
-			padding: 0;
-		}
-		header {
-			background-color: #333;
-			color: #fff;
-			padding: 20px;
-		}
-		h1 {
-			margin: 0;
-		}
-		main {
-			padding: 20px;
-		}
-		h2 {
-			font-size: 24px;
-			color: #333;
-		}
-		ul {
-			margin: 0;
-			padding: 0;
-			list-style: none;
-		}
-		li {
-			margin-bottom: 10px;
-		}
-		p {
-			margin-bottom: 20px;
-		}
-	</style>
+	<title>Computer Networking Portfolio</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
+
 	<header>
-		<h1>My Networking Portfolio</h1>
+		<nav>
+			<ul>
+				<li><a href="#">About Me</a></li>
+				<li><a href="#">Projects</a></li>
+				<li><a href="#">Contact</a></li>
+			</ul>
+		</nav>
+		<div class="hero">
+			<h1>Computer Networking Portfolio</h1>
+			<p>A showcase of my skills and projects</p>
+		</div>
 	</header>
+
 	<main>
-		<section>
+		<section id="about">
 			<h2>About Me</h2>
-			<p>I am a college student currently studying computer networking. I am passionate about learning how to design and implement network solutions.</p>
+			<p>I am a college student pursuing a degree in Computer Networking. In my IT Essentials and Network+ courses, I learned about networking fundamentals, network design, network security, and more. I also gained hands-on experience through projects and activities, such as building and configuring networks in Packet Tracer and setting up virtual machines using VMware.</p>
+			<p>My passion for computer networking drives me to continually expand my knowledge and skills in this field. I am particularly interested in network design and security, and I am excited to apply what I have learned in real-world settings.</p>
 		</section>
-		<section>
-			<h2>Skills</h2>
-			<ul>
-				<li>Proficient in using Packet Tracer for network simulation and visualization</li>
-				<li>Experience with VMware virtual machines for network testing and development</li>
-				<li>Familiar with network topologies, routing protocols, and network security concepts</li>
-			</ul>
+
+		<section id="projects">
+			<h2>Projects</h2>
+			<div class="project">
+				<h3>Project 1</h3>
+				<p>Description of project 1.</p>
+			</div>
+			<div class="project">
+				<h3>Project 2</h3>
+				<p>Description of project 2.</p>
+			</div>
+			<div class="project">
+				<h3>Project 3</h3>
+				<p>Description of project 3.</p>
+			</div>
 		</section>
-		<section>
-			<h2>Education</h2>
-			<ul>
-				<li>Bachelor of Science in Computer Networking, XYZ University (Expected Graduation: May 2023)</li>
-			</ul>
+
+		<section id="contact">
+			<h2>Contact</h2>
+			<form action="submit-form.php" method="POST">
+				<label for="name">Name:</label>
+				<input type="text" id="name" name="user_name">
+
+				<label for="email">Email:</label>
+				<input type="email" id="email" name="user_email">
+
+				<label for="message">Message:</label>
+				<textarea id="message" name="user_message"></textarea>
+
+				<input type="submit" value="Send">
+			</form>
+			<p>You can also reach me at myemail@example.com or via LinkedIn.</p>
 		</section>
 	</main>
+
 	<footer>
-		<p>&copy; 2023 My Networking Portfolio</p>
+		<p>Copyright &copy; 2023</p>
 	</footer>
+
 </body>
 </html>
-
