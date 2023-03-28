@@ -29,3 +29,32 @@ I am passionate about building and maintaining computer networks, and I am activ
 ## Contact Information
 You can reach me at yonk710@gmail.com or connect with me on LinkedIn at (https://www.linkedin.com/in/yonathan-fadel-930765243/) I would love to hear from you!
 
+
+	<h3>Certifications</h3>
+	<ul>
+		<li>
+			Name: Technical Support Fundamentals<br>
+			Issuing Organization: Coursera<br>
+			Issue Date: March 2023<br>
+			Expiration Date: This certification does not expire<br>
+			Credential ID: RMTBLNLL5ZSJ<br>
+			Credential URL: https://www.coursera.org/account/accomplishments/certificate/RMTBLNLL5ZSJ
+		</li>
+		<li>
+			Name: The Bits and Bytes of Computer Networking<br>
+			Issuing Organization: Coursera<br>
+			Issue Date: March 2023<br>
+			Expiration Date: This certification does not expire<br>
+			Credential ID: DRF86ZJGHCGH<br>
+			Credential URL: https://www.coursera.org/account/accomplishments/certificate/DRF86ZJGHCGH
+		</li>
+		<li>
+			Name: System Administration and IT Infrastructure Services<br>
+			Issuing Organization: Coursera<br>
+			Issue Date: March 2023<br>
+			Expiration Date: This certification does not expire<br>
+			Credential ID: AL9U8FLZ752X<br>
+			Credential URL: https://www.coursera.org/account/accomplishments/certificate/AL9U8FLZ752X
+		</li>
+	</ul>
+</section>
